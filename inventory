@@ -1,4 +1,4 @@
-jona@192.168.122.57
-jona@192.168.122.99
-jona@192.168.122.95
+jona@192.168.122.57 apache_package=apache2 php_package=libapache2-mod-php
+jona@192.168.122.99 apache_package=apache2 php_package=libapache2-mod-php
+jona@192.168.122.95 apache_package=apache2 php_package=libapache2-mod-php
 
