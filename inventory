@@ -1,10 +1,12 @@
 [web_servers]
-jona@192.168.122.57 
+jona@192.168.122.57
+jona@192.168.122.60 
 
 [db_servers]
-jona@192.168.122.99
-jona@192.168.122.60 
+jona@192.168.122.99 
 
 [file_servers]
 jona@192.168.122.95 
 
+[workstations]
+jonathan@192.168.122.65
